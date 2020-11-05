@@ -1,5 +1,5 @@
 # ultibo-wifi
 
-  Based on Blog by Jeremy P Bentham
+  Based on Blog and associated source code by Jeremy P Bentham
 
   https://iosoft.blog/zerowi/    
